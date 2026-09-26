@@ -143,7 +143,7 @@ img {
   position: relative;
   background-image:
     linear-gradient(rgba(5, 8, 22, 0.25), rgba(5, 8, 22, 0.35)),
-    url("../pto/w3.png");
+    url("./pto/w3.png");
   background-size: cover;
   background-position: center;
   animation: zoom 12s ease-in-out infinite alternate;
@@ -166,7 +166,7 @@ img {
 .colors-page {
   background-image:
     linear-gradient(rgba(2, 3, 11, 0.3), rgba(2, 3, 11, 0.82)),
-    url("../pto/bg3.png");
+    url("./pto/bg3.png");
 
   background-size: cover;
   background-position: center;

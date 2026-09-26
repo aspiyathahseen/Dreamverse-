@@ -153,7 +153,7 @@ img {
   position: relative;
   background-image:
     linear-gradient(rgba(5, 8, 22, 0.25), rgba(5, 8, 22, 0.35)),
-    url("../pto/w2.png");
+    url("./pto/w2.png");
   background-size: cover;
   background-position: center;
   animation: zoom 12s ease-in-out infinite alternate;
@@ -163,7 +163,7 @@ img {
   position: relative;
   background-image:
     linear-gradient(rgba(5, 8, 22, 0.25), rgba(5, 8, 22, 0.35)),
-    url("../pto/w1.png");
+    url("./pto/w1.png");
   background-size: cover;
   background-position: center;
   animation: zoom 12s ease-in-out infinite alternate;
@@ -181,7 +181,7 @@ img {
 .mood-page {
   background-image:
     linear-gradient(rgba(2, 3, 11, 0.3), rgba(2, 3, 11, 0.82)),
-    url("../pto/bg2.png");
+    url("./pto/bg2.png");
 
   background-size: cover;
   background-position: center;
@@ -374,7 +374,7 @@ img {
 .mood-zone {
   background:
     linear-gradient(rgba(5, 5, 20, 0.28), rgba(5, 5, 20, 0.55)),
-    url("../pto/dreamverse_page2_mood_zone.png");
+    url("./pto/dreamverse_page2_mood_zone.png");
   background-size: cover;
   background-position: center;
 }
@@ -833,7 +833,7 @@ footer {
 .mood-zone {
   background:
     linear-gradient(rgba(5, 5, 20, 0.28), rgba(5, 5, 20, 0.55)),
-    url("../pto/dreamverse_page2_mood_zone.png");
+    url("./pto/dreamverse_page2_mood_zone.png");
   background-size: cover;
   background-position: center;
 }

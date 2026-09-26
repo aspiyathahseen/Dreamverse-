@@ -143,7 +143,7 @@ img {
   position: relative;
   background-image:
     linear-gradient(rgba(5, 8, 22, 0.25), rgba(5, 8, 22, 0.35)),
-    url("../pto/company.jpg");
+    url("./pto/company.jpg");
   background-size: cover;
   background-position: center;
   animation: zoom 12s ease-in-out infinite alternate;
@@ -151,7 +151,7 @@ img {
 .universe-section {
   background:
     linear-gradient(rgba(2, 4, 18, 0.25), rgba(2, 4, 18, 0.65)),
-    url("../pto/dreamverse_page5_my_universe.png");
+    url("./pto/dreamverse_page5_my_universe.png");
   background-size: cover;
   background-position: center;
 }
